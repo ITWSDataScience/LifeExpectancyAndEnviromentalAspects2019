@@ -12,7 +12,7 @@ Zhou Lu
 [Group 7 Project](https://drive.google.com/drive/folders/1xMfaY1lYxQozEtN0HKXZ4Qd1wPUbpn3Q)
 
 **Questions/Purposes:**  
-- Does economic growth raise life expectancy?
+- Does economic growth raise life expectancy?  
 [source a](https://www.gapminder.org/answers/how-does-income-relate-to-life-expectancy/)  
 [source b](https://www.weforum.org/agenda/2016/10/the-relationship-between-gdp-and-life-expectancy-isnt-as-simple-as-you-might-think)  
 [source c](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita)  
@@ -33,6 +33,6 @@ Zhou Lu
 - Is there any relationship between probability of survival/ life expectancy and age pyramid?
 Life expectancy prediction by 2030  
 [source a](https://www.sciencedaily.com/releases/2017/02/170221222528.htm)
-- Life expectancy and living area & environment
+- Life expectancy and living area & environment  
 [source a](https://www.eurekalert.org/pub_releases/2018-01/nruh-hdl013018.php)  
 [source b](https://www.sciencenews.org/article/air-pollution-shaving-year-our-average-life-expectancy)
