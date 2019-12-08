@@ -1,5 +1,9 @@
 ## LifeExpectancyAndEnviromentalAspects2019
 
+# Abstract
+Life Expectancy is a key metric to measure the average health standard of a nation. It captures the mortality along the entire life course. which tells us the average age of death in a population and reflect the overall health care standard of those nations. We also included the national GDP to analyze how well each nation grow in life expectancy compare to their growth in economy. 
+
+We wanted to determine how well each country develop their healthcare system by accounting the average life ecpectancy of all nations in the recent 16 years. 
 
 **Project Team 7**  
 Yiran Zheng  
