@@ -12,6 +12,10 @@ Pengqin Wu
 Ruilin Jin  
 Zhou Lu  
 
+**Choropleth map for Life Expectancy** 
+<img width="967" alt="Screen Shot 2019-12-12 at 4 58 04 AM" src="https://user-images.githubusercontent.com/35613376/70703663-8c270780-1c9e-11ea-8458-de5e3b3da7bb.png">
+
+
 **Link to Google Drive**  
 [Group 7 Project](https://drive.google.com/drive/folders/1xMfaY1lYxQozEtN0HKXZ4Qd1wPUbpn3Q)
 
